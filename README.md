@@ -17,12 +17,13 @@ Um sistema bancário feito em **Python**, com funcionalidades de login, PIX, ext
 
 ## 🛠️ Tecnologias usadas
 
-- **Python 3.10+**
+- **Python 3.13+**
 - Bibliotecas nativas: `json`, `os`, `datetime`
 
 ---
 
 ## ▶️ Como rodar
 
-# 1 - Baixe aqui do repositório o **Calçados Bank.exe**
-# 2 - Depois é só executar o arquivo baixado e pronto
+- 1 - Baixe do repositório o **Calçados Bank.exe**
+# https://github.com/Rogerio-Infinito/Calcados-Bank
+- 2 - Depois é só executar o arquivo baixado e pronto
