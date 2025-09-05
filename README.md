@@ -19,6 +19,7 @@ Um sistema bancário feito em **Python**, com funcionalidades de login, PIX, ext
 
 # 1.1
 - Todas as cores funcionando em todos os terminais windows.
+- Melhora na sintaxe de erro – mensagens de erro mais claras e intuitivas.
 
 # 1.2
 - Em andamento...
