@@ -11,14 +11,23 @@ Um sistema bancário feito em **Python**, com funcionalidades de login, PIX, ext
 - 💸 **Fazer PIX** entre contas cadastradas.  
 - 📜 **Extrato** (veja apenas suas transações, filtrando entre pagas e recebidas).  
 - 🧮 **Calculadora integrada** no próprio sistema.  
-- 💾 Armazena dados em arquivos `.json` na pasta **Documentos/calçados bank**.  
+- 💾 Armazena dados em arquivos `.json` na pasta **Documentos/calçados bank**.
 
 ---
 
+## Logs
+
+# 1.1
+- Todas as cores funcionando em todos os terminais windows.
+
+# 1.2
+- Em andamento...
+  
 ## 🛠️ Tecnologias usadas
 
 - **Python 3.13+**
-- Bibliotecas nativas: `json`, `os`, `datetime`
+- Bibliotecas nativas: `json`, `os`, `datetime`, `path`, `sys`
+- Bibliotecas externas: `colorama`
 
 ---
 
