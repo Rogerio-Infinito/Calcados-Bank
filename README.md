@@ -9,7 +9,7 @@ Um sistema bancário feito em **Python**, com funcionalidades de login, PIX, ext
 
 - 👤 **Login seguro** com usuário e senha.  
 - 💸 **Fazer PIX** entre contas cadastradas.  
-- 📜 **Extrato** (veja apenas suas transações, filtrando entre pagas e recebidas).  
+- 📜 **Extrato** (veja apenas suas transações, junto de seu saldo).  
 - 🧮 **Calculadora integrada** no próprio sistema.  
 - 💾 Armazena dados em arquivos `.json` na pasta **Documentos/calçados bank**.
 
